@@ -1,0 +1,8 @@
+yt-dlp>=2024.1.0              # YouTube 다운로드 + heatmap
+google-genai>=1.0.0           # Gemini API (트랜스크립트 분석)
+ffmpeg-python>=0.2.0          # FFmpeg wrapper
+pydub>=0.25.1                 # Audio manipulation
+scipy>=1.11.0                 # Peak detection (find_peaks)
+numpy>=1.24.0                 # Numerics
+python-dotenv>=1.0.0          # Env vars
+torch>=2.0.0                  # WhisperX backend (MPS)

@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+.env.backup
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Generated / output
+output/
+temp/
+*.log
